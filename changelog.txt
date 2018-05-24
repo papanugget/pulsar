@@ -1,0 +1,9 @@
+1.0
+Initial source commit
+
+1.1 
+Removed built with Bulma logo
+Removed contact form
+
+1.2
+Changed T-rex Industries to Albert Chan
